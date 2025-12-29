@@ -1,5 +1,9 @@
 # BeyondChats Blog Insights - Full Stack Application
 
+**Live Links:**
+- **Frontend (Vercel):** [beyond-chats-scrapping.vercel.app](https://beyond-chats-scrapping.vercel.app)
+- **Backend (Render):** [beyond-chats-backend.onrender.com](https://beyond-chats-backend.onrender.com)
+
 A professional full-stack application designed to scrape, optimize, and display articles from the BeyondChats blog.
 
 ## 🚀 Key Features
